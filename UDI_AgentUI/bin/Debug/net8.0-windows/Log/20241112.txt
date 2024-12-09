@@ -1,0 +1,1567 @@
+09:44:04 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:44:52 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:45:00 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:45:53 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:46:22 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:50:21 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:50:56 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:50:58 錯誤 : Cannot find table 0.
+09:51:00 錯誤 : Cannot find table 0.
+09:51:02 錯誤 : Cannot find table 0.
+09:51:04 錯誤 : Cannot find table 0.
+09:51:06 錯誤 : Cannot find table 0.
+09:51:08 錯誤 : Cannot find table 0.
+09:51:10 錯誤 : Cannot find table 0.
+09:51:12 錯誤 : Cannot find table 0.
+09:51:14 錯誤 : Cannot find table 0.
+09:51:16 錯誤 : Cannot find table 0.
+09:51:18 錯誤 : Cannot find table 0.
+09:51:20 錯誤 : Cannot find table 0.
+09:51:22 錯誤 : Cannot find table 0.
+09:51:24 錯誤 : Cannot find table 0.
+09:51:26 錯誤 : Cannot find table 0.
+09:51:35 錯誤 : Unable to cast object of type 'System.Byte' to type 'System.Int32'.
+09:51:35 錯誤 : Cannot find table 0.
+09:51:37 錯誤 : Cannot find table 0.
+09:51:39 錯誤 : Cannot find table 0.
+09:51:41 錯誤 : Cannot find table 0.
+09:58:00 錯誤 : Cannot find table 0.
+09:58:01 錯誤 : Cannot find table 0.
+09:58:03 錯誤 : Cannot find table 0.
+09:58:05 錯誤 : Cannot find table 0.
+09:58:07 錯誤 : Cannot find table 0.
+09:58:09 錯誤 : Cannot find table 0.
+09:58:11 錯誤 : Cannot find table 0.
+09:58:19 錯誤 : Cannot find table 0.
+09:58:21 錯誤 : Cannot find table 0.
+09:58:23 錯誤 : Cannot find table 0.
+09:58:25 錯誤 : Cannot find table 0.
+09:58:27 錯誤 : Cannot find table 0.
+09:58:29 錯誤 : Cannot find table 0.
+09:58:31 錯誤 : Cannot find table 0.
+09:58:33 錯誤 : Cannot find table 0.
+09:58:35 錯誤 : Cannot find table 0.
+09:58:37 錯誤 : Cannot find table 0.
+09:58:39 錯誤 : Cannot find table 0.
+09:58:41 錯誤 : Cannot find table 0.
+09:58:43 錯誤 : Cannot find table 0.
+09:58:45 錯誤 : Cannot find table 0.
+09:58:47 錯誤 : Cannot find table 0.
+09:58:49 錯誤 : Cannot find table 0.
+09:58:51 錯誤 : Cannot find table 0.
+09:58:53 錯誤 : Cannot find table 0.
+09:58:55 錯誤 : Cannot find table 0.
+09:58:57 錯誤 : Cannot find table 0.
+09:58:59 錯誤 : Cannot find table 0.
+09:59:01 錯誤 : Cannot find table 0.
+09:59:03 錯誤 : Cannot find table 0.
+09:59:05 錯誤 : Cannot find table 0.
+09:59:07 錯誤 : Cannot find table 0.
+09:59:09 錯誤 : Cannot find table 0.
+09:59:11 錯誤 : Cannot find table 0.
+09:59:13 錯誤 : Cannot find table 0.
+09:59:15 錯誤 : Cannot find table 0.
+09:59:15 錯誤 : Cannot find table 0.
+09:59:17 錯誤 : Cannot find table 0.
+09:59:19 錯誤 : Cannot find table 0.
+09:59:21 錯誤 : Cannot find table 0.
+09:59:23 錯誤 : Cannot find table 0.
+09:59:25 錯誤 : Cannot find table 0.
+09:59:27 錯誤 : Cannot find table 0.
+09:59:29 錯誤 : Cannot find table 0.
+09:59:31 錯誤 : Cannot find table 0.
+09:59:33 錯誤 : Cannot find table 0.
+09:59:35 錯誤 : Cannot find table 0.
+09:59:37 錯誤 : Cannot find table 0.
+09:59:39 錯誤 : Cannot find table 0.
+09:59:41 錯誤 : Cannot find table 0.
+09:59:43 錯誤 : Cannot find table 0.
+09:59:45 錯誤 : Cannot find table 0.
+09:59:47 錯誤 : Cannot find table 0.
+09:59:49 錯誤 : Cannot find table 0.
+09:59:51 錯誤 : Cannot find table 0.
+09:59:53 錯誤 : Cannot find table 0.
+09:59:55 錯誤 : Cannot find table 0.
+09:59:57 錯誤 : Cannot find table 0.
+09:59:59 錯誤 : Cannot find table 0.
+10:00:01 錯誤 : Cannot find table 0.
+10:00:03 錯誤 : Cannot find table 0.
+10:00:05 錯誤 : Cannot find table 0.
+10:00:07 錯誤 : Cannot find table 0.
+10:00:09 錯誤 : Cannot find table 0.
+10:00:11 錯誤 : Cannot find table 0.
+10:00:13 錯誤 : Cannot find table 0.
+10:00:15 錯誤 : Cannot find table 0.
+10:00:17 錯誤 : Cannot find table 0.
+10:00:19 錯誤 : Cannot find table 0.
+10:00:21 錯誤 : Cannot find table 0.
+10:00:23 錯誤 : Cannot find table 0.
+10:00:25 錯誤 : Cannot find table 0.
+10:00:27 錯誤 : Cannot find table 0.
+10:00:29 錯誤 : Cannot find table 0.
+10:00:31 錯誤 : Cannot find table 0.
+10:00:33 錯誤 : Cannot find table 0.
+10:00:35 錯誤 : Cannot find table 0.
+10:00:37 錯誤 : Cannot find table 0.
+10:00:40 錯誤 : Cannot find table 0.
+10:00:43 錯誤 : Cannot find table 0.
+10:00:46 錯誤 : Cannot find table 0.
+10:00:47 錯誤 : Cannot find table 0.
+10:00:49 錯誤 : Cannot find table 0.
+10:00:51 錯誤 : Cannot find table 0.
+10:00:54 錯誤 : Cannot find table 0.
+10:00:56 錯誤 : Cannot find table 0.
+10:00:57 錯誤 : Cannot find table 0.
+10:01:00 錯誤 : Cannot find table 0.
+10:01:01 錯誤 : Cannot find table 0.
+10:01:04 錯誤 : Cannot find table 0.
+10:01:06 錯誤 : Cannot find table 0.
+10:01:08 錯誤 : Cannot find table 0.
+10:01:10 錯誤 : Cannot find table 0.
+10:01:11 錯誤 : Cannot find table 0.
+10:01:13 錯誤 : Cannot find table 0.
+10:01:16 錯誤 : Cannot find table 0.
+10:01:18 錯誤 : Cannot find table 0.
+10:01:19 錯誤 : Cannot find table 0.
+10:01:21 錯誤 : Cannot find table 0.
+10:01:23 錯誤 : Cannot find table 0.
+10:01:25 錯誤 : Cannot find table 0.
+10:01:28 錯誤 : Cannot find table 0.
+10:01:29 錯誤 : Cannot find table 0.
+10:01:31 錯誤 : Cannot find table 0.
+10:01:33 錯誤 : Cannot find table 0.
+10:01:36 錯誤 : Cannot find table 0.
+10:01:37 錯誤 : Cannot find table 0.
+10:01:39 錯誤 : Cannot find table 0.
+10:01:41 錯誤 : Cannot find table 0.
+10:13:47 錯誤 : Cannot find table 0.
+10:13:49 錯誤 : Cannot find table 0.
+10:13:51 錯誤 : Cannot find table 0.
+10:13:53 錯誤 : Cannot find table 0.
+10:13:55 錯誤 : Cannot find table 0.
+10:13:57 錯誤 : Cannot find table 0.
+10:13:59 錯誤 : Cannot find table 0.
+10:14:01 錯誤 : Cannot find table 0.
+10:14:03 錯誤 : Cannot find table 0.
+10:14:05 錯誤 : Cannot find table 0.
+10:14:07 錯誤 : Cannot find table 0.
+10:14:09 錯誤 : Cannot find table 0.
+10:14:11 錯誤 : Cannot find table 0.
+10:14:13 錯誤 : Cannot find table 0.
+10:14:15 錯誤 : Cannot find table 0.
+10:14:17 錯誤 : Cannot find table 0.
+10:14:19 錯誤 : Cannot find table 0.
+10:14:21 錯誤 : Cannot find table 0.
+10:14:23 錯誤 : Cannot find table 0.
+10:14:25 錯誤 : Cannot find table 0.
+10:14:27 錯誤 : Cannot find table 0.
+10:14:29 錯誤 : Cannot find table 0.
+10:14:31 錯誤 : Cannot find table 0.
+10:14:33 錯誤 : Cannot find table 0.
+10:14:35 錯誤 : Cannot find table 0.
+10:14:37 錯誤 : Cannot find table 0.
+10:14:39 錯誤 : Cannot find table 0.
+10:14:41 錯誤 : Cannot find table 0.
+10:14:43 錯誤 : Cannot find table 0.
+10:14:45 錯誤 : Cannot find table 0.
+10:14:47 錯誤 : Cannot find table 0.
+10:14:49 錯誤 : Cannot find table 0.
+10:14:51 錯誤 : Cannot find table 0.
+10:14:53 錯誤 : Cannot find table 0.
+10:14:55 錯誤 : Cannot find table 0.
+10:14:57 錯誤 : Cannot find table 0.
+10:14:59 錯誤 : Cannot find table 0.
+10:15:01 錯誤 : Cannot find table 0.
+10:15:03 錯誤 : Cannot find table 0.
+10:15:05 錯誤 : Cannot find table 0.
+10:15:07 錯誤 : Cannot find table 0.
+10:15:09 錯誤 : Cannot find table 0.
+10:15:11 錯誤 : Cannot find table 0.
+10:15:13 錯誤 : Cannot find table 0.
+10:15:15 錯誤 : Cannot find table 0.
+10:15:17 錯誤 : Cannot find table 0.
+10:15:19 錯誤 : Cannot find table 0.
+10:15:21 錯誤 : Cannot find table 0.
+10:15:23 錯誤 : Cannot find table 0.
+10:15:25 錯誤 : Cannot find table 0.
+10:15:27 錯誤 : Cannot find table 0.
+10:15:29 錯誤 : Cannot find table 0.
+10:15:31 錯誤 : Cannot find table 0.
+10:15:33 錯誤 : Cannot find table 0.
+10:15:35 錯誤 : Cannot find table 0.
+10:15:37 錯誤 : Cannot find table 0.
+10:15:39 錯誤 : Cannot find table 0.
+10:15:41 錯誤 : Cannot find table 0.
+10:15:43 錯誤 : Cannot find table 0.
+10:15:45 錯誤 : Cannot find table 0.
+10:15:47 錯誤 : Cannot find table 0.
+10:15:49 錯誤 : Cannot find table 0.
+10:15:51 錯誤 : Cannot find table 0.
+10:15:53 錯誤 : Cannot find table 0.
+10:15:55 錯誤 : Cannot find table 0.
+10:15:57 錯誤 : Cannot find table 0.
+10:15:59 錯誤 : Cannot find table 0.
+10:16:01 錯誤 : Cannot find table 0.
+10:16:03 錯誤 : Cannot find table 0.
+10:16:05 錯誤 : Cannot find table 0.
+10:16:07 錯誤 : Cannot find table 0.
+10:16:09 錯誤 : Cannot find table 0.
+10:16:11 錯誤 : Cannot find table 0.
+10:16:13 錯誤 : Cannot find table 0.
+10:16:15 錯誤 : Cannot find table 0.
+10:16:17 錯誤 : Cannot find table 0.
+10:16:19 錯誤 : Cannot find table 0.
+10:16:21 錯誤 : Cannot find table 0.
+10:16:23 錯誤 : Cannot find table 0.
+10:16:25 錯誤 : Cannot find table 0.
+10:16:27 錯誤 : Cannot find table 0.
+10:16:29 錯誤 : Cannot find table 0.
+10:16:31 錯誤 : Cannot find table 0.
+10:16:33 錯誤 : Cannot find table 0.
+10:16:35 錯誤 : Cannot find table 0.
+10:16:37 錯誤 : Cannot find table 0.
+10:16:39 錯誤 : Cannot find table 0.
+10:16:41 錯誤 : Cannot find table 0.
+10:16:43 錯誤 : Cannot find table 0.
+10:16:45 錯誤 : Cannot find table 0.
+10:16:47 錯誤 : Cannot find table 0.
+10:16:49 錯誤 : Cannot find table 0.
+10:16:51 錯誤 : Cannot find table 0.
+10:16:53 錯誤 : Cannot find table 0.
+10:16:55 錯誤 : Cannot find table 0.
+10:16:57 錯誤 : Cannot find table 0.
+10:16:59 錯誤 : Cannot find table 0.
+10:17:01 錯誤 : Cannot find table 0.
+10:17:03 錯誤 : Cannot find table 0.
+10:17:05 錯誤 : Cannot find table 0.
+10:17:07 錯誤 : Cannot find table 0.
+10:17:09 錯誤 : Cannot find table 0.
+10:17:11 錯誤 : Cannot find table 0.
+10:17:13 錯誤 : Cannot find table 0.
+10:17:15 錯誤 : Cannot find table 0.
+10:17:17 錯誤 : Cannot find table 0.
+10:17:19 錯誤 : Cannot find table 0.
+10:17:21 錯誤 : Cannot find table 0.
+10:17:23 錯誤 : Cannot find table 0.
+10:17:25 錯誤 : Cannot find table 0.
+10:17:27 錯誤 : Cannot find table 0.
+10:17:29 錯誤 : Cannot find table 0.
+10:17:31 錯誤 : Cannot find table 0.
+10:17:33 錯誤 : Cannot find table 0.
+10:17:35 錯誤 : Cannot find table 0.
+10:17:37 錯誤 : Cannot find table 0.
+10:17:39 錯誤 : Cannot find table 0.
+10:17:41 錯誤 : Cannot find table 0.
+10:17:43 錯誤 : Cannot find table 0.
+10:17:45 錯誤 : Cannot find table 0.
+10:17:47 錯誤 : Cannot find table 0.
+10:17:49 錯誤 : Cannot find table 0.
+10:17:51 錯誤 : Cannot find table 0.
+10:17:53 錯誤 : Cannot find table 0.
+10:17:55 錯誤 : Cannot find table 0.
+10:17:57 錯誤 : Cannot find table 0.
+10:17:59 錯誤 : Cannot find table 0.
+10:18:01 錯誤 : Cannot find table 0.
+10:18:03 錯誤 : Cannot find table 0.
+10:18:05 錯誤 : Cannot find table 0.
+10:18:07 錯誤 : Cannot find table 0.
+10:18:09 錯誤 : Cannot find table 0.
+10:18:11 錯誤 : Cannot find table 0.
+10:18:13 錯誤 : Cannot find table 0.
+10:18:15 錯誤 : Cannot find table 0.
+10:18:17 錯誤 : Cannot find table 0.
+10:18:19 錯誤 : Cannot find table 0.
+10:18:21 錯誤 : Cannot find table 0.
+10:18:23 錯誤 : Cannot find table 0.
+10:18:25 錯誤 : Cannot find table 0.
+10:18:27 錯誤 : Cannot find table 0.
+10:18:29 錯誤 : Cannot find table 0.
+10:18:31 錯誤 : Cannot find table 0.
+10:18:33 錯誤 : Cannot find table 0.
+10:18:35 錯誤 : Cannot find table 0.
+10:18:37 錯誤 : Cannot find table 0.
+10:18:39 錯誤 : Cannot find table 0.
+10:18:41 錯誤 : Cannot find table 0.
+10:18:43 錯誤 : Cannot find table 0.
+10:18:45 錯誤 : Cannot find table 0.
+10:18:47 錯誤 : Cannot find table 0.
+10:18:49 錯誤 : Cannot find table 0.
+10:18:51 錯誤 : Cannot find table 0.
+10:18:53 錯誤 : Cannot find table 0.
+10:18:55 錯誤 : Cannot find table 0.
+10:18:57 錯誤 : Cannot find table 0.
+10:18:59 錯誤 : Cannot find table 0.
+10:19:01 錯誤 : Cannot find table 0.
+10:19:03 錯誤 : Cannot find table 0.
+10:19:05 錯誤 : Cannot find table 0.
+10:19:07 錯誤 : Cannot find table 0.
+10:19:09 錯誤 : Cannot find table 0.
+10:19:11 錯誤 : Cannot find table 0.
+10:19:13 錯誤 : Cannot find table 0.
+10:19:15 錯誤 : Cannot find table 0.
+10:19:17 錯誤 : Cannot find table 0.
+10:19:19 錯誤 : Cannot find table 0.
+10:19:21 錯誤 : Cannot find table 0.
+10:19:23 錯誤 : Cannot find table 0.
+10:19:25 錯誤 : Cannot find table 0.
+10:19:27 錯誤 : Cannot find table 0.
+10:19:29 錯誤 : Cannot find table 0.
+10:19:31 錯誤 : Cannot find table 0.
+10:19:33 錯誤 : Cannot find table 0.
+10:19:35 錯誤 : Cannot find table 0.
+10:19:37 錯誤 : Cannot find table 0.
+10:19:39 錯誤 : Cannot find table 0.
+10:19:41 錯誤 : Cannot find table 0.
+10:19:43 錯誤 : Cannot find table 0.
+10:19:45 錯誤 : Cannot find table 0.
+10:19:47 錯誤 : Cannot find table 0.
+10:19:49 錯誤 : Cannot find table 0.
+10:19:51 錯誤 : Cannot find table 0.
+10:19:53 錯誤 : Cannot find table 0.
+10:19:55 錯誤 : Cannot find table 0.
+10:19:57 錯誤 : Cannot find table 0.
+10:19:59 錯誤 : Cannot find table 0.
+10:20:01 錯誤 : Cannot find table 0.
+10:20:03 錯誤 : Cannot find table 0.
+10:20:05 錯誤 : Cannot find table 0.
+10:20:07 錯誤 : Cannot find table 0.
+10:20:09 錯誤 : Cannot find table 0.
+10:20:11 錯誤 : Cannot find table 0.
+10:20:13 錯誤 : Cannot find table 0.
+10:20:15 錯誤 : Cannot find table 0.
+10:20:17 錯誤 : Cannot find table 0.
+10:20:19 錯誤 : Cannot find table 0.
+10:20:21 錯誤 : Cannot find table 0.
+10:20:23 錯誤 : Cannot find table 0.
+10:20:25 錯誤 : Cannot find table 0.
+10:20:27 錯誤 : Cannot find table 0.
+10:20:29 錯誤 : Cannot find table 0.
+10:20:31 錯誤 : Cannot find table 0.
+10:20:33 錯誤 : Cannot find table 0.
+10:20:35 錯誤 : Cannot find table 0.
+10:20:37 錯誤 : Cannot find table 0.
+10:20:39 錯誤 : Cannot find table 0.
+10:20:41 錯誤 : Cannot find table 0.
+10:20:43 錯誤 : Cannot find table 0.
+10:20:45 錯誤 : Cannot find table 0.
+10:20:47 錯誤 : Cannot find table 0.
+10:20:49 錯誤 : Cannot find table 0.
+10:20:51 錯誤 : Cannot find table 0.
+10:20:53 錯誤 : Cannot find table 0.
+10:20:55 錯誤 : Cannot find table 0.
+10:20:57 錯誤 : Cannot find table 0.
+10:20:59 錯誤 : Cannot find table 0.
+10:21:01 錯誤 : Cannot find table 0.
+10:21:03 錯誤 : Cannot find table 0.
+10:21:05 錯誤 : Cannot find table 0.
+10:21:07 錯誤 : Cannot find table 0.
+10:21:09 錯誤 : Cannot find table 0.
+10:21:11 錯誤 : Cannot find table 0.
+10:21:13 錯誤 : Cannot find table 0.
+10:21:15 錯誤 : Cannot find table 0.
+10:21:17 錯誤 : Cannot find table 0.
+10:21:19 錯誤 : Cannot find table 0.
+10:21:21 錯誤 : Cannot find table 0.
+10:21:23 錯誤 : Cannot find table 0.
+10:21:25 錯誤 : Cannot find table 0.
+10:21:27 錯誤 : Cannot find table 0.
+10:21:29 錯誤 : Cannot find table 0.
+10:21:31 錯誤 : Cannot find table 0.
+10:21:33 錯誤 : Cannot find table 0.
+10:21:35 錯誤 : Cannot find table 0.
+10:21:37 錯誤 : Cannot find table 0.
+10:21:39 錯誤 : Cannot find table 0.
+10:21:41 錯誤 : Cannot find table 0.
+10:21:43 錯誤 : Cannot find table 0.
+10:21:45 錯誤 : Cannot find table 0.
+10:21:47 錯誤 : Cannot find table 0.
+10:21:49 錯誤 : Cannot find table 0.
+10:21:51 錯誤 : Cannot find table 0.
+10:21:53 錯誤 : Cannot find table 0.
+10:21:55 錯誤 : Cannot find table 0.
+10:21:57 錯誤 : Cannot find table 0.
+10:21:59 錯誤 : Cannot find table 0.
+10:22:01 錯誤 : Cannot find table 0.
+10:22:03 錯誤 : Cannot find table 0.
+10:22:05 錯誤 : Cannot find table 0.
+10:22:07 錯誤 : Cannot find table 0.
+10:22:09 錯誤 : Cannot find table 0.
+10:22:11 錯誤 : Cannot find table 0.
+10:22:13 錯誤 : Cannot find table 0.
+10:22:15 錯誤 : Cannot find table 0.
+10:22:17 錯誤 : Cannot find table 0.
+10:22:19 錯誤 : Cannot find table 0.
+10:22:21 錯誤 : Cannot find table 0.
+10:22:23 錯誤 : Cannot find table 0.
+10:22:25 錯誤 : Cannot find table 0.
+10:22:27 錯誤 : Cannot find table 0.
+10:22:29 錯誤 : Cannot find table 0.
+10:22:31 錯誤 : Cannot find table 0.
+10:22:33 錯誤 : Cannot find table 0.
+10:22:35 錯誤 : Cannot find table 0.
+10:22:37 錯誤 : Cannot find table 0.
+10:22:39 錯誤 : Cannot find table 0.
+10:22:41 錯誤 : Cannot find table 0.
+10:22:43 錯誤 : Cannot find table 0.
+10:22:45 錯誤 : Cannot find table 0.
+10:22:47 錯誤 : Cannot find table 0.
+10:22:49 錯誤 : Cannot find table 0.
+10:22:51 錯誤 : Cannot find table 0.
+10:22:53 錯誤 : Cannot find table 0.
+10:22:55 錯誤 : Cannot find table 0.
+10:22:57 錯誤 : Cannot find table 0.
+10:22:59 錯誤 : Cannot find table 0.
+10:23:01 錯誤 : Cannot find table 0.
+10:23:03 錯誤 : Cannot find table 0.
+10:23:11 錯誤 : Cannot find table 0.
+10:23:13 錯誤 : Cannot find table 0.
+10:23:15 錯誤 : Cannot find table 0.
+10:23:17 錯誤 : Cannot find table 0.
+10:23:19 錯誤 : Cannot find table 0.
+10:23:21 錯誤 : Cannot find table 0.
+10:23:22 錯誤 : 找不到預存程序 ''。
+10:23:23 錯誤 : Cannot find table 0.
+10:23:25 錯誤 : Cannot find table 0.
+10:23:26 錯誤 : 找不到預存程序 ''。
+10:23:26 錯誤 : 找不到預存程序 ''。
+10:23:26 錯誤 : 找不到預存程序 ''。
+10:23:27 錯誤 : 找不到預存程序 ''。
+10:23:27 錯誤 : Cannot find table 0.
+10:23:29 錯誤 : Cannot find table 0.
+10:23:31 錯誤 : Cannot find table 0.
+10:24:27 錯誤 : Cannot find table 0.
+10:24:29 錯誤 : Cannot find table 0.
+10:24:30 錯誤 : 找不到預存程序 ''。
+10:24:31 錯誤 : 找不到預存程序 ''。
+10:24:31 錯誤 : Cannot find table 0.
+10:24:32 錯誤 : 找不到預存程序 ''。
+10:24:32 錯誤 : 找不到預存程序 ''。
+10:24:32 錯誤 : 找不到預存程序 ''。
+10:24:32 錯誤 : 找不到預存程序 ''。
+10:24:32 錯誤 : 找不到預存程序 ''。
+10:24:32 錯誤 : 找不到預存程序 ''。
+10:24:33 錯誤 : 找不到預存程序 ''。
+10:24:33 錯誤 : 找不到預存程序 ''。
+10:24:33 錯誤 : 找不到預存程序 ''。
+10:24:33 錯誤 : 找不到預存程序 ''。
+10:24:33 錯誤 : 找不到預存程序 ''。
+10:24:33 錯誤 : Cannot find table 0.
+10:24:33 錯誤 : 找不到預存程序 ''。
+10:24:34 錯誤 : 找不到預存程序 ''。
+10:24:34 錯誤 : 找不到預存程序 ''。
+10:24:34 錯誤 : 找不到預存程序 ''。
+10:24:34 錯誤 : 找不到預存程序 ''。
+10:25:01 錯誤 : Cannot find table 0.
+10:25:01 錯誤 : Cannot find table 0.
+10:25:02 錯誤 : 找不到預存程序 ''。
+10:25:03 錯誤 : 找不到預存程序 ''。
+10:25:03 錯誤 : 找不到預存程序 ''。
+10:25:03 錯誤 : Cannot find table 0.
+10:25:05 錯誤 : Cannot find table 0.
+10:25:07 錯誤 : Cannot find table 0.
+10:25:09 錯誤 : Cannot find table 0.
+10:25:11 錯誤 : Cannot find table 0.
+10:25:13 錯誤 : Cannot find table 0.
+10:25:14 錯誤 : 找不到預存程序 ''。
+10:25:15 錯誤 : Cannot find table 0.
+10:25:17 錯誤 : Cannot find table 0.
+10:25:19 錯誤 : Cannot find table 0.
+10:27:33 錯誤 : Cannot find table 0.
+10:27:35 錯誤 : Cannot find table 0.
+10:27:37 錯誤 : Cannot find table 0.
+10:28:56 錯誤 : 找不到預存程序 ''。
+10:28:57 錯誤 : Cannot find table 0.
+10:28:59 錯誤 : Cannot find table 0.
+10:29:01 錯誤 : Cannot find table 0.
+10:29:03 錯誤 : Cannot find table 0.
+10:29:05 錯誤 : Cannot find table 0.
+10:29:07 錯誤 : Cannot find table 0.
+10:29:09 錯誤 : Cannot find table 0.
+10:29:11 錯誤 : Cannot find table 0.
+10:29:13 錯誤 : Cannot find table 0.
+10:30:07 錯誤 : Cannot find table 0.
+10:33:23 錯誤 : Cannot find table 0.
+10:35:33 錯誤 : Cannot find table 0.
+10:35:33 錯誤 : Cannot find table 0.
+10:35:35 錯誤 : 找不到預存程序 ''。
+10:35:35 錯誤 : Cannot find table 0.
+10:35:35 錯誤 : Cannot find table 0.
+10:35:37 錯誤 : Cannot find table 0.
+10:36:01 錯誤 : Cannot find table 0.
+10:36:41 錯誤 : Cannot find table 0.
+10:36:43 錯誤 : Cannot find table 0.
+10:36:45 錯誤 : Cannot find table 0.
+10:36:47 錯誤 : Cannot find table 0.
+10:36:49 錯誤 : Cannot find table 0.
+10:36:51 錯誤 : Cannot find table 0.
+10:37:49 錯誤 : Cannot find table 0.
+10:37:54 錯誤 : 找不到預存程序 ''。
+10:37:55 錯誤 : Cannot find table 0.
+10:37:57 錯誤 : Cannot find table 0.
+10:37:59 錯誤 : Cannot find table 0.
+10:38:01 錯誤 : Cannot find table 0.
+10:38:03 錯誤 : Cannot find table 0.
+10:38:05 錯誤 : Cannot find table 0.
+10:38:07 錯誤 : Cannot find table 0.
+10:38:09 錯誤 : Cannot find table 0.
+10:38:11 錯誤 : Cannot find table 0.
+10:38:13 錯誤 : Cannot find table 0.
+10:38:15 錯誤 : Cannot find table 0.
+10:38:17 錯誤 : Cannot find table 0.
+10:38:23 錯誤 : Cannot find table 0.
+10:38:26 錯誤 : 找不到預存程序 ''。
+10:38:27 錯誤 : Cannot find table 0.
+10:38:29 錯誤 : Cannot find table 0.
+10:38:31 錯誤 : Cannot find table 0.
+10:38:40 錯誤 : Cannot find table 0.
+10:38:42 錯誤 : Cannot find table 0.
+10:38:44 錯誤 : Cannot find table 0.
+10:38:46 錯誤 : Cannot find table 0.
+10:38:48 錯誤 : Cannot find table 0.
+10:38:50 錯誤 : Cannot find table 0.
+10:38:52 錯誤 : Cannot find table 0.
+10:38:53 錯誤 : Cannot find table 0.
+10:38:54 錯誤 : Cannot find table 0.
+10:38:55 錯誤 : Cannot find table 0.
+10:38:56 錯誤 : Cannot find table 0.
+10:38:58 錯誤 : Cannot find table 0.
+10:39:00 錯誤 : Cannot find table 0.
+10:39:01 錯誤 : Cannot find table 0.
+10:39:02 錯誤 : Cannot find table 0.
+10:39:04 錯誤 : Cannot find table 0.
+10:39:06 錯誤 : Cannot find table 0.
+10:39:07 錯誤 : Cannot find table 0.
+10:39:08 錯誤 : Cannot find table 0.
+10:39:09 錯誤 : Cannot find table 0.
+10:39:11 錯誤 : Cannot find table 0.
+10:39:13 錯誤 : Cannot find table 0.
+10:39:17 錯誤 : Cannot find table 0.
+10:39:19 錯誤 : Cannot find table 0.
+10:39:23 錯誤 : Cannot find table 0.
+10:39:26 錯誤 : Cannot find table 0.
+10:39:27 錯誤 : Cannot find table 0.
+10:39:28 錯誤 : Cannot find table 0.
+10:39:30 錯誤 : Cannot find table 0.
+10:39:31 錯誤 : Cannot find table 0.
+10:39:33 錯誤 : Cannot find table 0.
+10:39:35 錯誤 : Cannot find table 0.
+10:39:39 錯誤 : Cannot find table 0.
+10:55:59 錯誤 : Cannot find table 0.
+10:58:05 錯誤 : Cannot find table 0.
+10:58:07 錯誤 : Cannot find table 0.
+10:58:09 錯誤 : Cannot find table 0.
+10:58:59 錯誤 : Cannot find table 0.
+10:59:01 錯誤 : Cannot find table 0.
+10:59:03 錯誤 : Cannot find table 0.
+10:59:05 錯誤 : Cannot find table 0.
+10:59:07 錯誤 : Cannot find table 0.
+10:59:09 錯誤 : Cannot find table 0.
+10:59:11 錯誤 : Cannot find table 0.
+10:59:13 錯誤 : Cannot find table 0.
+10:59:15 錯誤 : Cannot find table 0.
+10:59:17 錯誤 : Cannot find table 0.
+10:59:19 錯誤 : Cannot find table 0.
+10:59:21 錯誤 : Cannot find table 0.
+10:59:23 錯誤 : Cannot find table 0.
+10:59:25 錯誤 : Cannot find table 0.
+10:59:27 錯誤 : Cannot find table 0.
+10:59:29 錯誤 : Cannot find table 0.
+10:59:31 錯誤 : Cannot find table 0.
+10:59:33 錯誤 : Cannot find table 0.
+10:59:35 錯誤 : Cannot find table 0.
+10:59:37 錯誤 : Cannot find table 0.
+10:59:39 錯誤 : Cannot find table 0.
+10:59:41 錯誤 : Cannot find table 0.
+11:00:53 錯誤 : Cannot find table 0.
+11:00:55 錯誤 : Cannot find table 0.
+11:00:57 錯誤 : Cannot find table 0.
+11:00:59 錯誤 : Cannot find table 0.
+11:01:01 錯誤 : Cannot find table 0.
+11:01:03 錯誤 : Cannot find table 0.
+11:01:05 錯誤 : Cannot find table 0.
+11:01:07 錯誤 : Cannot find table 0.
+11:01:09 錯誤 : Cannot find table 0.
+11:01:11 錯誤 : Cannot find table 0.
+11:01:13 錯誤 : Cannot find table 0.
+11:01:15 錯誤 : Cannot find table 0.
+11:01:17 錯誤 : Cannot find table 0.
+11:01:19 錯誤 : Cannot find table 0.
+11:01:21 錯誤 : Cannot find table 0.
+11:01:23 錯誤 : Cannot find table 0.
+11:01:25 錯誤 : Cannot find table 0.
+11:01:27 錯誤 : Cannot find table 0.
+11:01:29 錯誤 : Cannot find table 0.
+11:01:31 錯誤 : Cannot find table 0.
+11:01:33 錯誤 : Cannot find table 0.
+11:01:35 錯誤 : Cannot find table 0.
+11:01:37 錯誤 : Cannot find table 0.
+11:01:39 錯誤 : Cannot find table 0.
+11:01:41 錯誤 : Cannot find table 0.
+11:01:43 錯誤 : Cannot find table 0.
+11:01:45 錯誤 : Cannot find table 0.
+11:01:47 錯誤 : Cannot find table 0.
+11:01:49 錯誤 : Cannot find table 0.
+11:01:51 錯誤 : Cannot find table 0.
+11:01:53 錯誤 : Cannot find table 0.
+11:01:55 錯誤 : Cannot find table 0.
+11:01:57 錯誤 : Cannot find table 0.
+11:01:59 錯誤 : Cannot find table 0.
+11:02:01 錯誤 : Cannot find table 0.
+11:02:03 錯誤 : Cannot find table 0.
+11:02:05 錯誤 : Cannot find table 0.
+11:02:07 錯誤 : Cannot find table 0.
+11:02:09 錯誤 : Cannot find table 0.
+11:02:11 錯誤 : Cannot find table 0.
+11:02:13 錯誤 : Cannot find table 0.
+11:02:15 錯誤 : Cannot find table 0.
+11:02:17 錯誤 : Cannot find table 0.
+11:02:19 錯誤 : Cannot find table 0.
+11:02:21 錯誤 : Cannot find table 0.
+11:02:23 錯誤 : Cannot find table 0.
+11:02:25 錯誤 : Cannot find table 0.
+11:02:27 錯誤 : Cannot find table 0.
+11:02:29 錯誤 : Cannot find table 0.
+11:02:31 錯誤 : Cannot find table 0.
+11:02:33 錯誤 : Cannot find table 0.
+11:02:35 錯誤 : Cannot find table 0.
+11:02:37 錯誤 : Cannot find table 0.
+11:02:39 錯誤 : Cannot find table 0.
+11:02:41 錯誤 : Cannot find table 0.
+11:02:43 錯誤 : Cannot find table 0.
+11:02:45 錯誤 : Cannot find table 0.
+11:02:47 錯誤 : Cannot find table 0.
+11:02:49 錯誤 : Cannot find table 0.
+11:02:51 錯誤 : Cannot find table 0.
+11:02:53 錯誤 : Cannot find table 0.
+11:02:55 錯誤 : Cannot find table 0.
+11:02:57 錯誤 : Cannot find table 0.
+11:02:59 錯誤 : Cannot find table 0.
+11:03:01 錯誤 : Cannot find table 0.
+11:03:03 錯誤 : Cannot find table 0.
+11:03:05 錯誤 : Cannot find table 0.
+11:03:07 錯誤 : Cannot find table 0.
+11:03:09 錯誤 : Cannot find table 0.
+11:03:11 錯誤 : Cannot find table 0.
+11:03:13 錯誤 : Cannot find table 0.
+11:03:15 錯誤 : Cannot find table 0.
+11:03:17 錯誤 : Cannot find table 0.
+11:03:19 錯誤 : Cannot find table 0.
+11:03:21 錯誤 : Cannot find table 0.
+11:03:23 錯誤 : Cannot find table 0.
+11:03:25 錯誤 : Cannot find table 0.
+11:03:27 錯誤 : Cannot find table 0.
+11:03:29 錯誤 : Cannot find table 0.
+11:03:31 錯誤 : Cannot find table 0.
+11:03:33 錯誤 : Cannot find table 0.
+11:03:35 錯誤 : Cannot find table 0.
+11:03:37 錯誤 : Cannot find table 0.
+11:03:39 錯誤 : Cannot find table 0.
+11:03:41 錯誤 : Cannot find table 0.
+11:03:43 錯誤 : Cannot find table 0.
+11:03:45 錯誤 : Cannot find table 0.
+11:03:47 錯誤 : Cannot find table 0.
+11:03:49 錯誤 : Cannot find table 0.
+11:03:51 錯誤 : Cannot find table 0.
+11:03:53 錯誤 : Cannot find table 0.
+11:03:55 錯誤 : Cannot find table 0.
+11:03:57 錯誤 : Cannot find table 0.
+11:03:59 錯誤 : Cannot find table 0.
+11:04:01 錯誤 : Cannot find table 0.
+11:04:03 錯誤 : Cannot find table 0.
+11:04:05 錯誤 : Cannot find table 0.
+11:04:07 錯誤 : Cannot find table 0.
+11:04:09 錯誤 : Cannot find table 0.
+11:04:11 錯誤 : Cannot find table 0.
+11:04:13 錯誤 : Cannot find table 0.
+11:04:15 錯誤 : Cannot find table 0.
+11:04:17 錯誤 : Cannot find table 0.
+11:04:19 錯誤 : Cannot find table 0.
+11:04:21 錯誤 : Cannot find table 0.
+11:04:23 錯誤 : Cannot find table 0.
+11:04:25 錯誤 : Cannot find table 0.
+11:04:27 錯誤 : Cannot find table 0.
+11:04:29 錯誤 : Cannot find table 0.
+11:04:31 錯誤 : Cannot find table 0.
+11:04:33 錯誤 : Cannot find table 0.
+11:04:35 錯誤 : Cannot find table 0.
+11:04:37 錯誤 : Cannot find table 0.
+11:04:39 錯誤 : Cannot find table 0.
+11:04:41 錯誤 : Cannot find table 0.
+11:04:43 錯誤 : Cannot find table 0.
+11:04:45 錯誤 : Cannot find table 0.
+11:04:47 錯誤 : Cannot find table 0.
+11:04:49 錯誤 : Cannot find table 0.
+11:04:49 錯誤 : Cannot find table 0.
+11:04:51 錯誤 : Cannot find table 0.
+11:04:53 錯誤 : Cannot find table 0.
+11:04:55 錯誤 : Cannot find table 0.
+11:04:57 錯誤 : Cannot find table 0.
+11:04:59 錯誤 : Cannot find table 0.
+11:05:01 錯誤 : Cannot find table 0.
+11:05:03 錯誤 : Cannot find table 0.
+11:05:05 錯誤 : Cannot find table 0.
+11:05:07 錯誤 : Cannot find table 0.
+11:05:09 錯誤 : Cannot find table 0.
+11:05:11 錯誤 : Cannot find table 0.
+11:05:13 錯誤 : Cannot find table 0.
+11:05:15 錯誤 : Cannot find table 0.
+11:05:17 錯誤 : Cannot find table 0.
+11:05:19 錯誤 : Cannot find table 0.
+11:05:21 錯誤 : Cannot find table 0.
+11:05:23 錯誤 : Cannot find table 0.
+11:05:25 錯誤 : Cannot find table 0.
+11:05:27 錯誤 : Cannot find table 0.
+11:05:29 錯誤 : Cannot find table 0.
+11:05:31 錯誤 : Cannot find table 0.
+11:05:33 錯誤 : Cannot find table 0.
+11:05:35 錯誤 : Cannot find table 0.
+11:05:37 錯誤 : Cannot find table 0.
+11:05:39 錯誤 : Cannot find table 0.
+11:05:41 錯誤 : Cannot find table 0.
+11:05:43 錯誤 : Cannot find table 0.
+11:05:45 錯誤 : Cannot find table 0.
+11:05:47 錯誤 : Cannot find table 0.
+11:05:49 錯誤 : Cannot find table 0.
+11:05:51 錯誤 : Cannot find table 0.
+11:05:53 錯誤 : Cannot find table 0.
+11:05:55 錯誤 : Cannot find table 0.
+11:05:57 錯誤 : Cannot find table 0.
+11:05:59 錯誤 : Cannot find table 0.
+11:06:01 錯誤 : Cannot find table 0.
+11:06:03 錯誤 : Cannot find table 0.
+11:06:05 錯誤 : Cannot find table 0.
+11:06:07 錯誤 : Cannot find table 0.
+11:06:09 錯誤 : Cannot find table 0.
+11:06:11 錯誤 : Cannot find table 0.
+11:06:13 錯誤 : Cannot find table 0.
+11:06:15 錯誤 : Cannot find table 0.
+11:06:17 錯誤 : Cannot find table 0.
+11:06:19 錯誤 : Cannot find table 0.
+11:06:21 錯誤 : Cannot find table 0.
+11:06:23 錯誤 : Cannot find table 0.
+11:06:25 錯誤 : Cannot find table 0.
+11:06:27 錯誤 : Cannot find table 0.
+11:06:29 錯誤 : Cannot find table 0.
+11:06:31 錯誤 : Cannot find table 0.
+11:06:33 錯誤 : Cannot find table 0.
+11:06:35 錯誤 : Cannot find table 0.
+11:06:37 錯誤 : Cannot find table 0.
+11:06:39 錯誤 : Cannot find table 0.
+11:06:41 錯誤 : Cannot find table 0.
+11:06:43 錯誤 : Cannot find table 0.
+11:06:45 錯誤 : Cannot find table 0.
+11:06:47 錯誤 : Cannot find table 0.
+11:06:49 錯誤 : Cannot find table 0.
+11:06:51 錯誤 : Cannot find table 0.
+11:06:53 錯誤 : Cannot find table 0.
+11:06:55 錯誤 : Cannot find table 0.
+11:06:57 錯誤 : Cannot find table 0.
+11:06:59 錯誤 : Cannot find table 0.
+11:07:01 錯誤 : Cannot find table 0.
+11:07:03 錯誤 : Cannot find table 0.
+11:07:05 錯誤 : Cannot find table 0.
+11:07:07 錯誤 : Cannot find table 0.
+11:07:09 錯誤 : Cannot find table 0.
+11:07:11 錯誤 : Cannot find table 0.
+11:07:13 錯誤 : Cannot find table 0.
+11:07:15 錯誤 : Cannot find table 0.
+11:07:17 錯誤 : Cannot find table 0.
+11:14:21 錯誤 : Cannot find table 0.
+11:14:23 錯誤 : Cannot find table 0.
+11:14:25 錯誤 : Cannot find table 0.
+11:14:27 錯誤 : Cannot find table 0.
+11:14:29 錯誤 : Cannot find table 0.
+11:14:31 錯誤 : Cannot find table 0.
+11:14:33 錯誤 : Cannot find table 0.
+11:14:35 錯誤 : Cannot find table 0.
+11:14:37 錯誤 : Cannot find table 0.
+11:14:39 錯誤 : Cannot find table 0.
+11:14:41 錯誤 : Cannot find table 0.
+11:14:43 錯誤 : Cannot find table 0.
+11:14:45 錯誤 : Cannot find table 0.
+11:14:47 錯誤 : Cannot find table 0.
+11:14:49 錯誤 : Cannot find table 0.
+11:14:51 錯誤 : Cannot find table 0.
+11:14:53 錯誤 : Cannot find table 0.
+11:14:55 錯誤 : Cannot find table 0.
+11:14:57 錯誤 : Cannot find table 0.
+11:14:59 錯誤 : Cannot find table 0.
+11:15:01 錯誤 : Cannot find table 0.
+11:15:03 錯誤 : Cannot find table 0.
+11:15:05 錯誤 : Cannot find table 0.
+11:15:07 錯誤 : Cannot find table 0.
+11:15:09 錯誤 : Cannot find table 0.
+11:15:11 錯誤 : Cannot find table 0.
+11:15:13 錯誤 : Cannot find table 0.
+11:15:15 錯誤 : Cannot find table 0.
+11:15:17 錯誤 : Cannot find table 0.
+11:15:19 錯誤 : Cannot find table 0.
+11:15:21 錯誤 : Cannot find table 0.
+11:15:23 錯誤 : Cannot find table 0.
+11:15:25 錯誤 : Cannot find table 0.
+11:15:27 錯誤 : Cannot find table 0.
+11:15:29 錯誤 : Cannot find table 0.
+11:15:31 錯誤 : Cannot find table 0.
+11:15:33 錯誤 : Cannot find table 0.
+11:15:35 錯誤 : Cannot find table 0.
+11:15:37 錯誤 : Cannot find table 0.
+11:15:39 錯誤 : Cannot find table 0.
+11:15:41 錯誤 : Cannot find table 0.
+11:15:43 錯誤 : Cannot find table 0.
+11:15:45 錯誤 : Cannot find table 0.
+11:15:47 錯誤 : Cannot find table 0.
+11:15:49 錯誤 : Cannot find table 0.
+11:15:51 錯誤 : Cannot find table 0.
+11:15:53 錯誤 : Cannot find table 0.
+11:15:55 錯誤 : Cannot find table 0.
+11:15:57 錯誤 : Cannot find table 0.
+11:15:59 錯誤 : Cannot find table 0.
+11:16:01 錯誤 : Cannot find table 0.
+11:16:03 錯誤 : Cannot find table 0.
+11:16:05 錯誤 : Cannot find table 0.
+11:16:07 錯誤 : Cannot find table 0.
+11:16:09 錯誤 : Cannot find table 0.
+11:16:11 錯誤 : Cannot find table 0.
+11:16:13 錯誤 : Cannot find table 0.
+11:16:15 錯誤 : Cannot find table 0.
+11:16:17 錯誤 : Cannot find table 0.
+11:16:19 錯誤 : Cannot find table 0.
+11:16:21 錯誤 : Cannot find table 0.
+11:16:23 錯誤 : Cannot find table 0.
+11:16:25 錯誤 : Cannot find table 0.
+11:16:27 錯誤 : Cannot find table 0.
+11:16:29 錯誤 : Cannot find table 0.
+11:16:31 錯誤 : Cannot find table 0.
+11:16:33 錯誤 : Cannot find table 0.
+11:16:35 錯誤 : Cannot find table 0.
+11:16:37 錯誤 : Cannot find table 0.
+11:16:39 錯誤 : Cannot find table 0.
+11:16:41 錯誤 : Cannot find table 0.
+11:16:43 錯誤 : Cannot find table 0.
+11:16:45 錯誤 : Cannot find table 0.
+11:16:47 錯誤 : Cannot find table 0.
+11:16:49 錯誤 : Cannot find table 0.
+11:16:51 錯誤 : Cannot find table 0.
+11:16:53 錯誤 : Cannot find table 0.
+11:16:55 錯誤 : Cannot find table 0.
+11:16:57 錯誤 : Cannot find table 0.
+11:16:59 錯誤 : Cannot find table 0.
+11:17:01 錯誤 : Cannot find table 0.
+11:17:03 錯誤 : Cannot find table 0.
+11:17:05 錯誤 : Cannot find table 0.
+11:17:07 錯誤 : Cannot find table 0.
+11:17:09 錯誤 : Cannot find table 0.
+11:17:11 錯誤 : Cannot find table 0.
+11:17:13 錯誤 : Cannot find table 0.
+11:17:15 錯誤 : Cannot find table 0.
+11:17:17 錯誤 : Cannot find table 0.
+11:17:19 錯誤 : Cannot find table 0.
+11:17:21 錯誤 : Cannot find table 0.
+11:17:23 錯誤 : Cannot find table 0.
+11:17:25 錯誤 : Cannot find table 0.
+11:17:27 錯誤 : Cannot find table 0.
+11:17:29 錯誤 : Cannot find table 0.
+11:17:31 錯誤 : Cannot find table 0.
+11:17:33 錯誤 : Cannot find table 0.
+11:17:35 錯誤 : Cannot find table 0.
+11:17:37 錯誤 : Cannot find table 0.
+11:17:39 錯誤 : Cannot find table 0.
+11:17:41 錯誤 : Cannot find table 0.
+11:17:43 錯誤 : Cannot find table 0.
+11:17:45 錯誤 : Cannot find table 0.
+11:17:47 錯誤 : Cannot find table 0.
+11:17:54 錯誤 : Cannot find table 0.
+11:17:55 錯誤 : Cannot find table 0.
+11:17:57 錯誤 : Cannot find table 0.
+11:17:59 錯誤 : Cannot find table 0.
+11:18:01 錯誤 : Cannot find table 0.
+11:18:03 錯誤 : Cannot find table 0.
+11:18:05 錯誤 : Cannot find table 0.
+11:18:11 錯誤 : Cannot find table 0.
+11:18:13 錯誤 : Cannot find table 0.
+11:18:15 錯誤 : Cannot find table 0.
+11:18:17 錯誤 : Cannot find table 0.
+11:18:19 錯誤 : Cannot find table 0.
+11:18:21 錯誤 : Cannot find table 0.
+11:18:23 錯誤 : Cannot find table 0.
+11:18:25 錯誤 : Cannot find table 0.
+11:18:28 錯誤 : Cannot find table 0.
+11:18:29 錯誤 : Cannot find table 0.
+11:18:31 錯誤 : Cannot find table 0.
+11:18:33 錯誤 : Cannot find table 0.
+11:18:35 錯誤 : Cannot find table 0.
+11:18:37 錯誤 : Cannot find table 0.
+11:18:39 錯誤 : Cannot find table 0.
+11:18:41 錯誤 : Cannot find table 0.
+11:18:44 錯誤 : Cannot find table 0.
+11:18:45 錯誤 : Cannot find table 0.
+11:18:47 錯誤 : Cannot find table 0.
+11:18:49 錯誤 : Cannot find table 0.
+11:18:51 錯誤 : Cannot find table 0.
+11:18:53 錯誤 : Cannot find table 0.
+11:18:55 錯誤 : Cannot find table 0.
+11:18:57 錯誤 : Cannot find table 0.
+11:18:59 錯誤 : Cannot find table 0.
+11:19:01 錯誤 : Cannot find table 0.
+11:19:03 錯誤 : Cannot find table 0.
+11:19:05 錯誤 : Cannot find table 0.
+11:20:59 錯誤 : Cannot find table 0.
+11:20:59 錯誤 : listen
+11:21:01 錯誤 : Cannot find table 0.
+11:21:03 錯誤 : Cannot find table 0.
+11:21:04 錯誤 : listen
+11:21:05 錯誤 : Cannot find table 0.
+11:21:06 錯誤 : listen
+11:21:07 錯誤 : Cannot find table 0.
+11:21:08 錯誤 : listen
+11:21:09 錯誤 : Cannot find table 0.
+11:21:10 錯誤 : listen
+11:21:11 錯誤 : Cannot find table 0.
+11:21:12 錯誤 : listen
+11:21:13 錯誤 : Cannot find table 0.
+11:21:14 錯誤 : listen
+11:21:15 錯誤 : Cannot find table 0.
+11:21:16 錯誤 : listen
+11:21:17 錯誤 : Cannot find table 0.
+11:21:18 錯誤 : listen
+11:21:19 錯誤 : Cannot find table 0.
+11:21:20 錯誤 : listen
+11:21:21 錯誤 : Cannot find table 0.
+11:21:22 錯誤 : listen
+11:21:23 錯誤 : Cannot find table 0.
+11:21:24 錯誤 : listen
+11:21:25 錯誤 : Cannot find table 0.
+11:21:26 錯誤 : listen
+11:21:27 錯誤 : Cannot find table 0.
+11:21:28 錯誤 : listen
+11:21:29 錯誤 : Cannot find table 0.
+11:21:30 錯誤 : listen
+11:21:31 錯誤 : Cannot find table 0.
+11:21:32 錯誤 : listen
+11:21:33 錯誤 : Cannot find table 0.
+11:21:34 錯誤 : listen
+11:21:35 錯誤 : Cannot find table 0.
+11:21:36 錯誤 : listen
+11:21:37 錯誤 : Cannot find table 0.
+11:21:38 錯誤 : listen
+11:21:39 錯誤 : Cannot find table 0.
+11:21:40 錯誤 : listen
+11:21:41 錯誤 : Cannot find table 0.
+11:21:42 錯誤 : listen
+11:21:43 錯誤 : Cannot find table 0.
+11:21:44 錯誤 : listen
+11:21:45 錯誤 : Cannot find table 0.
+11:21:46 錯誤 : listen
+11:21:47 錯誤 : Cannot find table 0.
+11:21:48 錯誤 : listen
+11:21:49 錯誤 : Cannot find table 0.
+11:21:50 錯誤 : listen
+11:21:51 錯誤 : Cannot find table 0.
+11:21:52 錯誤 : listen
+11:21:53 錯誤 : Cannot find table 0.
+11:21:54 錯誤 : listen
+11:21:55 錯誤 : Cannot find table 0.
+11:21:56 錯誤 : listen
+11:21:57 錯誤 : Cannot find table 0.
+11:21:58 錯誤 : listen
+11:21:59 錯誤 : Cannot find table 0.
+11:22:00 錯誤 : listen
+11:22:01 錯誤 : Cannot find table 0.
+11:22:02 錯誤 : listen
+11:22:03 錯誤 : Cannot find table 0.
+11:22:04 錯誤 : listen
+11:22:05 錯誤 : Cannot find table 0.
+11:22:07 錯誤 : listen
+11:22:07 錯誤 : Cannot find table 0.
+11:22:09 錯誤 : listen
+11:22:09 錯誤 : Cannot find table 0.
+11:22:11 錯誤 : listen
+11:22:11 錯誤 : Cannot find table 0.
+11:22:13 錯誤 : listen
+11:22:13 錯誤 : Cannot find table 0.
+11:22:15 錯誤 : listen
+11:22:15 錯誤 : Cannot find table 0.
+11:22:17 錯誤 : listen
+11:22:17 錯誤 : Cannot find table 0.
+11:22:19 錯誤 : listen
+11:22:19 錯誤 : Cannot find table 0.
+11:22:21 錯誤 : listen
+11:22:21 錯誤 : Cannot find table 0.
+11:22:23 錯誤 : listen
+11:22:23 錯誤 : Cannot find table 0.
+11:22:25 錯誤 : listen
+11:22:25 錯誤 : Cannot find table 0.
+11:22:27 錯誤 : listen
+11:22:27 錯誤 : Cannot find table 0.
+11:22:29 錯誤 : listen
+11:22:29 錯誤 : Cannot find table 0.
+11:22:31 錯誤 : listen
+11:22:31 錯誤 : Cannot find table 0.
+11:22:33 錯誤 : listen
+11:22:33 錯誤 : Cannot find table 0.
+11:22:35 錯誤 : listen
+11:22:35 錯誤 : Cannot find table 0.
+11:22:37 錯誤 : listen
+11:22:37 錯誤 : Cannot find table 0.
+11:22:39 錯誤 : listen
+11:22:39 錯誤 : Cannot find table 0.
+11:22:41 錯誤 : listen
+11:22:41 錯誤 : Cannot find table 0.
+11:22:41 錯誤 : Cannot find table 0.
+11:22:43 錯誤 : listen
+11:22:43 錯誤 : Cannot find table 0.
+11:22:45 錯誤 : listen
+11:22:45 錯誤 : Cannot find table 0.
+11:22:47 錯誤 : listen
+11:22:47 錯誤 : Cannot find table 0.
+11:22:49 錯誤 : listen
+11:22:49 錯誤 : Cannot find table 0.
+11:22:51 錯誤 : listen
+11:22:51 錯誤 : Cannot find table 0.
+11:22:53 錯誤 : listen
+11:22:53 錯誤 : Cannot find table 0.
+11:22:55 錯誤 : listen
+11:22:55 錯誤 : Cannot find table 0.
+11:22:57 錯誤 : listen
+11:22:57 錯誤 : Cannot find table 0.
+11:22:59 錯誤 : listen
+11:22:59 錯誤 : Cannot find table 0.
+11:23:01 錯誤 : listen
+11:23:01 錯誤 : Cannot find table 0.
+11:23:03 錯誤 : listen
+11:23:03 錯誤 : Cannot find table 0.
+11:23:05 錯誤 : listen
+11:23:05 錯誤 : Cannot find table 0.
+11:23:07 錯誤 : Cannot find table 0.
+11:23:07 錯誤 : listen
+11:23:09 錯誤 : Cannot find table 0.
+11:23:09 錯誤 : listen
+11:23:11 錯誤 : Cannot find table 0.
+11:23:11 錯誤 : listen
+11:23:13 錯誤 : Cannot find table 0.
+11:23:13 錯誤 : listen
+11:23:15 錯誤 : Cannot find table 0.
+11:23:15 錯誤 : listen
+11:23:17 錯誤 : Cannot find table 0.
+11:23:17 錯誤 : listen
+11:23:19 錯誤 : Cannot find table 0.
+11:23:19 錯誤 : listen
+11:23:21 錯誤 : Cannot find table 0.
+11:23:21 錯誤 : listen
+11:23:23 錯誤 : Cannot find table 0.
+11:23:23 錯誤 : listen
+11:23:25 錯誤 : Cannot find table 0.
+11:23:25 錯誤 : listen
+11:23:27 錯誤 : Cannot find table 0.
+11:23:27 錯誤 : listen
+11:23:29 錯誤 : Cannot find table 0.
+11:23:29 錯誤 : listen
+11:23:31 錯誤 : Cannot find table 0.
+11:23:31 錯誤 : listen
+11:23:33 錯誤 : Cannot find table 0.
+11:23:34 錯誤 : listen
+11:23:35 錯誤 : Cannot find table 0.
+11:23:36 錯誤 : listen
+11:23:37 錯誤 : Cannot find table 0.
+11:23:38 錯誤 : listen
+11:23:39 錯誤 : Cannot find table 0.
+11:23:40 錯誤 : listen
+11:23:41 錯誤 : Cannot find table 0.
+11:23:42 錯誤 : listen
+11:23:43 錯誤 : Cannot find table 0.
+11:23:44 錯誤 : listen
+11:23:45 錯誤 : Cannot find table 0.
+11:23:46 錯誤 : listen
+11:23:47 錯誤 : Cannot find table 0.
+11:23:48 錯誤 : listen
+11:23:49 錯誤 : Cannot find table 0.
+11:23:50 錯誤 : listen
+11:23:51 錯誤 : Cannot find table 0.
+11:23:52 錯誤 : listen
+11:23:53 錯誤 : Cannot find table 0.
+11:23:54 錯誤 : listen
+11:23:55 錯誤 : Cannot find table 0.
+11:23:56 錯誤 : listen
+11:23:57 錯誤 : Cannot find table 0.
+11:23:58 錯誤 : listen
+11:23:59 錯誤 : Cannot find table 0.
+11:24:00 錯誤 : listen
+11:24:01 錯誤 : Cannot find table 0.
+11:24:02 錯誤 : listen
+11:24:03 錯誤 : Cannot find table 0.
+11:24:04 錯誤 : listen
+11:24:05 錯誤 : Cannot find table 0.
+11:24:06 錯誤 : listen
+11:24:07 錯誤 : Cannot find table 0.
+11:24:08 錯誤 : listen
+11:24:09 錯誤 : Cannot find table 0.
+11:24:10 錯誤 : listen
+11:24:11 錯誤 : Cannot find table 0.
+11:24:12 錯誤 : listen
+11:24:13 錯誤 : Cannot find table 0.
+11:24:14 錯誤 : listen
+11:24:15 錯誤 : Cannot find table 0.
+11:24:16 錯誤 : listen
+11:24:17 錯誤 : Cannot find table 0.
+11:24:18 錯誤 : listen
+11:24:19 錯誤 : Cannot find table 0.
+11:24:21 錯誤 : listen
+11:24:21 錯誤 : Cannot find table 0.
+11:24:23 錯誤 : listen
+11:24:23 錯誤 : Cannot find table 0.
+11:24:25 錯誤 : listen
+11:24:25 錯誤 : Cannot find table 0.
+11:24:27 錯誤 : listen
+11:24:27 錯誤 : Cannot find table 0.
+11:24:29 錯誤 : listen
+11:24:29 錯誤 : Cannot find table 0.
+11:24:31 錯誤 : listen
+11:24:31 錯誤 : Cannot find table 0.
+11:24:33 錯誤 : listen
+11:24:33 錯誤 : Cannot find table 0.
+11:24:35 錯誤 : listen
+11:24:35 錯誤 : Cannot find table 0.
+11:24:37 錯誤 : listen
+11:24:37 錯誤 : Cannot find table 0.
+11:24:39 錯誤 : listen
+11:24:39 錯誤 : Cannot find table 0.
+11:24:41 錯誤 : listen
+11:24:41 錯誤 : Cannot find table 0.
+11:24:43 錯誤 : listen
+11:24:43 錯誤 : Cannot find table 0.
+11:24:45 錯誤 : listen
+11:24:45 錯誤 : Cannot find table 0.
+11:24:47 錯誤 : listen
+11:24:47 錯誤 : Cannot find table 0.
+11:24:49 錯誤 : listen
+11:24:49 錯誤 : Cannot find table 0.
+11:24:51 錯誤 : Cannot find table 0.
+11:24:51 錯誤 : listen
+11:24:53 錯誤 : Cannot find table 0.
+11:24:53 錯誤 : listen
+11:24:55 錯誤 : Cannot find table 0.
+11:24:55 錯誤 : listen
+11:25:05 錯誤 : Cannot find table 0.
+11:25:07 錯誤 : Cannot find table 0.
+11:25:09 錯誤 : Cannot find table 0.
+11:25:11 錯誤 : Cannot find table 0.
+11:25:13 錯誤 : Cannot find table 0.
+11:25:15 錯誤 : Cannot find table 0.
+11:25:17 錯誤 : Cannot find table 0.
+11:25:19 錯誤 : Cannot find table 0.
+11:25:21 錯誤 : Cannot find table 0.
+11:25:23 錯誤 : Cannot find table 0.
+11:25:25 錯誤 : Cannot find table 0.
+11:25:27 錯誤 : Cannot find table 0.
+11:25:29 錯誤 : Cannot find table 0.
+11:25:31 錯誤 : Cannot find table 0.
+11:25:33 錯誤 : Cannot find table 0.
+11:25:35 錯誤 : Cannot find table 0.
+11:26:06 錯誤 : listen
+11:26:08 錯誤 : listen
+11:26:10 錯誤 : listen
+11:26:12 錯誤 : listen
+11:26:14 錯誤 : listen
+11:26:16 錯誤 : listen
+11:26:18 錯誤 : listen
+11:26:20 錯誤 : listen
+11:26:22 錯誤 : listen
+11:26:24 錯誤 : listen
+11:26:26 錯誤 : listen
+11:27:03 錯誤 : listen
+11:27:03 錯誤 : Cannot find table 0.
+11:27:05 錯誤 : Cannot find table 0.
+11:27:05 錯誤 : listen
+11:27:07 錯誤 : Cannot find table 0.
+11:27:07 錯誤 : listen
+11:27:09 錯誤 : Cannot find table 0.
+11:27:09 錯誤 : listen
+11:27:11 錯誤 : Cannot find table 0.
+11:27:11 錯誤 : listen
+11:27:13 錯誤 : Cannot find table 0.
+11:27:13 錯誤 : listen
+11:27:15 錯誤 : Cannot find table 0.
+11:27:15 錯誤 : listen
+11:30:23 錯誤 : listen
+11:30:25 錯誤 : listen
+11:30:27 錯誤 : listen
+11:30:29 錯誤 : listen
+11:30:31 錯誤 : listen
+11:30:33 錯誤 : listen
+11:30:35 錯誤 : listen
+11:30:37 錯誤 : listen
+11:30:39 錯誤 : listen
+11:30:41 錯誤 : listen
+11:30:43 錯誤 : listen
+11:30:45 錯誤 : listen
+11:30:47 錯誤 : listen
+11:30:49 錯誤 : listen
+11:30:51 錯誤 : listen
+11:30:53 錯誤 : listen
+11:30:55 錯誤 : listen
+11:30:57 錯誤 : listen
+11:30:59 錯誤 : listen
+11:31:01 錯誤 : listen
+11:31:03 錯誤 : listen
+11:31:05 錯誤 : listen
+11:31:07 錯誤 : listen
+11:31:09 錯誤 : listen
+11:31:11 錯誤 : listen
+11:31:13 錯誤 : listen
+11:31:15 錯誤 : listen
+11:31:17 錯誤 : listen
+11:31:19 錯誤 : listen
+11:31:21 錯誤 : listen
+11:31:24 錯誤 : listen
+11:31:26 錯誤 : listen
+11:31:28 錯誤 : listen
+11:31:30 錯誤 : listen
+11:31:32 錯誤 : listen
+11:31:34 錯誤 : listen
+11:31:36 錯誤 : listen
+11:31:38 錯誤 : listen
+11:31:40 錯誤 : listen
+11:31:42 錯誤 : listen
+11:31:44 錯誤 : listen
+11:31:46 錯誤 : listen
+11:31:48 錯誤 : listen
+11:31:50 錯誤 : listen
+11:31:52 錯誤 : listen
+11:31:54 錯誤 : listen
+11:31:56 錯誤 : listen
+11:31:58 錯誤 : listen
+11:32:00 錯誤 : listen
+11:32:02 錯誤 : listen
+11:32:04 錯誤 : listen
+11:32:06 錯誤 : listen
+11:32:08 錯誤 : listen
+11:32:10 錯誤 : listen
+11:32:12 錯誤 : listen
+11:32:14 錯誤 : listen
+11:32:16 錯誤 : listen
+11:32:18 錯誤 : listen
+11:32:20 錯誤 : listen
+11:32:22 錯誤 : listen
+11:32:24 錯誤 : listen
+11:32:26 錯誤 : listen
+11:32:28 錯誤 : listen
+11:32:30 錯誤 : listen
+11:32:32 錯誤 : listen
+11:32:34 錯誤 : listen
+11:32:36 錯誤 : listen
+11:32:38 錯誤 : listen
+11:32:40 錯誤 : listen
+11:32:42 錯誤 : listen
+11:32:44 錯誤 : listen
+11:32:46 錯誤 : listen
+11:32:48 錯誤 : listen
+11:32:50 錯誤 : listen
+11:32:52 錯誤 : listen
+11:32:54 錯誤 : listen
+11:32:56 錯誤 : listen
+11:32:58 錯誤 : listen
+11:33:00 錯誤 : listen
+11:33:02 錯誤 : listen
+11:33:04 錯誤 : listen
+11:33:06 錯誤 : listen
+11:33:08 錯誤 : listen
+11:33:10 錯誤 : listen
+11:33:12 錯誤 : listen
+11:33:14 錯誤 : listen
+11:33:16 錯誤 : listen
+11:33:18 錯誤 : listen
+11:33:20 錯誤 : listen
+11:33:22 錯誤 : listen
+11:33:24 錯誤 : listen
+11:33:26 錯誤 : listen
+11:33:29 錯誤 : listen
+11:33:30 錯誤 : listen
+11:33:32 錯誤 : listen
+11:33:35 錯誤 : listen
+11:33:37 錯誤 : listen
+11:33:38 錯誤 : listen
+11:33:41 錯誤 : listen
+11:33:43 錯誤 : listen
+11:33:45 錯誤 : listen
+11:33:47 錯誤 : listen
+11:33:49 錯誤 : listen
+11:33:51 錯誤 : listen
+11:33:53 錯誤 : listen
+11:33:55 錯誤 : listen
+11:33:57 錯誤 : listen
+11:33:59 錯誤 : listen
+11:34:01 錯誤 : listen
+11:34:03 錯誤 : listen
+11:34:05 錯誤 : listen
+11:34:07 錯誤 : listen
+11:34:09 錯誤 : listen
+11:34:11 錯誤 : listen
+11:34:13 錯誤 : listen
+11:34:15 錯誤 : listen
+11:34:17 錯誤 : listen
+11:34:19 錯誤 : listen
+11:34:21 錯誤 : listen
+11:34:23 錯誤 : listen
+11:34:25 錯誤 : listen
+11:34:27 錯誤 : listen
+11:34:29 錯誤 : listen
+11:34:31 錯誤 : listen
+11:34:33 錯誤 : listen
+11:34:35 錯誤 : listen
+11:34:37 錯誤 : listen
+11:34:39 錯誤 : listen
+11:34:41 錯誤 : listen
+11:34:43 錯誤 : listen
+11:34:45 錯誤 : listen
+11:34:47 錯誤 : listen
+11:34:49 錯誤 : listen
+11:34:51 錯誤 : listen
+11:34:53 錯誤 : listen
+11:34:55 錯誤 : listen
+11:34:57 錯誤 : listen
+11:34:59 錯誤 : listen
+11:35:01 錯誤 : listen
+11:35:03 錯誤 : listen
+11:35:05 錯誤 : listen
+11:35:07 錯誤 : listen
+11:35:09 錯誤 : listen
+11:35:11 錯誤 : listen
+11:35:13 錯誤 : listen
+11:35:15 錯誤 : listen
+11:35:17 錯誤 : listen
+11:35:19 錯誤 : listen
+11:35:21 錯誤 : listen
+11:35:23 錯誤 : listen
+11:35:25 錯誤 : listen
+11:35:27 錯誤 : listen
+11:35:29 錯誤 : listen
+11:35:31 錯誤 : listen
+11:35:33 錯誤 : listen
+11:35:35 錯誤 : listen
+11:35:37 錯誤 : listen
+11:35:39 錯誤 : listen
+11:35:41 錯誤 : listen
+11:35:43 錯誤 : listen
+11:35:45 錯誤 : listen
+11:35:47 錯誤 : listen
+11:35:49 錯誤 : listen
+11:35:51 錯誤 : listen
+11:35:53 錯誤 : listen
+11:35:55 錯誤 : listen
+11:35:57 錯誤 : listen
+11:35:59 錯誤 : listen
+11:36:01 錯誤 : listen
+11:36:03 錯誤 : listen
+11:36:05 錯誤 : listen
+11:36:07 錯誤 : listen
+11:36:09 錯誤 : listen
+11:36:11 錯誤 : listen
+11:36:13 錯誤 : listen
+11:36:15 錯誤 : listen
+11:36:17 錯誤 : listen
+11:36:19 錯誤 : listen
+11:36:21 錯誤 : listen
+11:36:23 錯誤 : listen
+11:36:25 錯誤 : listen
+11:36:27 錯誤 : listen
+11:36:29 錯誤 : listen
+11:36:31 錯誤 : listen
+11:36:33 錯誤 : listen
+11:36:35 錯誤 : listen
+11:36:37 錯誤 : listen
+11:36:39 錯誤 : listen
+11:36:41 錯誤 : listen
+11:36:43 錯誤 : listen
+11:36:45 錯誤 : listen
+15:08:57 錯誤 : listen
+15:08:59 錯誤 : listen
+15:09:01 錯誤 : listen
+15:09:03 錯誤 : listen
+15:09:05 錯誤 : listen
+15:09:07 錯誤 : listen
+15:09:09 錯誤 : listen
+15:09:11 錯誤 : listen
+15:09:13 錯誤 : listen
+15:09:15 錯誤 : listen
+15:09:17 錯誤 : listen
+15:09:19 錯誤 : listen
+15:09:21 錯誤 : listen
+15:09:23 錯誤 : listen
+15:09:25 錯誤 : listen
+15:09:27 錯誤 : listen
+15:09:29 錯誤 : listen
+15:09:31 錯誤 : listen
+15:09:33 錯誤 : listen
+15:09:35 錯誤 : listen
+15:09:37 錯誤 : listen
+15:09:39 錯誤 : listen
+15:09:41 錯誤 : listen
+15:09:43 錯誤 : listen
+15:09:45 錯誤 : listen
+15:09:47 錯誤 : listen
+15:09:49 錯誤 : listen
+15:09:51 錯誤 : listen
+15:09:53 錯誤 : listen
+15:09:55 錯誤 : listen
+15:09:57 錯誤 : listen
+15:09:59 錯誤 : listen
+15:31:02 錯誤 : listen
+15:31:04 錯誤 : listen
+15:31:06 錯誤 : listen
+15:31:08 錯誤 : listen
+15:31:10 錯誤 : listen
+15:31:12 錯誤 : listen
+15:31:14 錯誤 : listen
+15:31:16 錯誤 : listen
+15:31:18 錯誤 : listen
+15:31:20 錯誤 : listen
+15:31:22 錯誤 : listen
+15:31:24 錯誤 : listen
+15:31:26 錯誤 : listen
+15:31:28 錯誤 : listen
+15:31:30 錯誤 : listen
+15:31:32 錯誤 : listen
+15:33:33 錯誤 : listen
+15:33:33 錯誤 : 指定的文件夾不存在。
+15:33:33 錯誤 : 指定的文件夾不存在。
+15:33:45 錯誤 : 指定的文件夾不存在。
+15:33:45 錯誤 : 指定的文件夾不存在。
+15:33:45 錯誤 : 指定的文件夾不存在。
+15:33:47 錯誤 : 指定的文件夾不存在。
+15:33:47 錯誤 : listen
+15:33:47 錯誤 : 指定的文件夾不存在。
+15:33:47 錯誤 : 指定的文件夾不存在。
+15:35:17 錯誤 : listen
+15:35:17 錯誤 : 指定的文件夾不存在。
+15:35:17 錯誤 : 指定的文件夾不存在。
+15:36:36 錯誤 : listen
+15:36:36 錯誤 : 指定的文件夾不存在。
+15:36:36 錯誤 : 指定的文件夾不存在。
+15:36:39 錯誤 : 指定的文件夾不存在。
+15:36:39 錯誤 : 指定的文件夾不存在。
+15:36:40 錯誤 : listen
+15:37:45 錯誤 : listen
+15:37:45 錯誤 : 指定的文件夾不存在。
+15:37:45 錯誤 : 指定的文件夾不存在。
+15:37:47 錯誤 : listen
+15:37:47 錯誤 : 指定的文件夾不存在。
+15:37:47 錯誤 : 指定的文件夾不存在。
+15:39:13 錯誤 : listen
+15:39:13 錯誤 : 指定的文件夾不存在。
+15:39:13 錯誤 : 指定的文件夾不存在。
+15:39:42 錯誤 : listen
+15:39:42 錯誤 : 指定的文件夾不存在。
+15:39:42 錯誤 : 指定的文件夾不存在。
+15:40:19 錯誤 : 指定的文件夾不存在。
+15:40:19 錯誤 : 指定的文件夾不存在。
+15:41:46 錯誤 : listen
+15:41:46 錯誤 : 指定的文件夾不存在。
+15:41:46 錯誤 : 指定的文件夾不存在。
+15:41:53 錯誤 : 指定的文件夾不存在。
+15:41:53 錯誤 : 指定的文件夾不存在。
+15:42:38 錯誤 : listen
+15:42:38 錯誤 : 指定的文件夾不存在。
+15:42:38 錯誤 : 指定的文件夾不存在。
+15:42:41 錯誤 : listen
+15:42:45 錯誤 : listen
+15:42:47 錯誤 : listen
+15:42:47 錯誤 : 六小時前的文件已刪除，刪除成功
+15:42:49 錯誤 : listen
+15:42:49 錯誤 : 指定的文件夾不存在。
+15:42:49 錯誤 : 指定的文件夾不存在。
+15:42:49 錯誤 : 六小時前的文件已刪除，刪除成功
+15:42:51 錯誤 : listen
+15:42:51 錯誤 : 指定的文件夾不存在。
+15:42:51 錯誤 : 指定的文件夾不存在。
+15:42:51 錯誤 : 六小時前的文件已刪除，刪除成功
+15:42:53 錯誤 : listen
+15:42:53 錯誤 : 指定的文件夾不存在。
+15:42:53 錯誤 : 指定的文件夾不存在。
+15:42:54 錯誤 : 六小時前的文件已刪除，刪除成功
+15:42:55 錯誤 : listen
+15:42:56 錯誤 : 指定的文件夾不存在。
+15:42:56 錯誤 : 指定的文件夾不存在。
+15:42:56 錯誤 : 六小時前的文件已刪除，刪除成功
+15:42:57 錯誤 : listen
+15:42:58 錯誤 : 指定的文件夾不存在。
+15:42:58 錯誤 : 指定的文件夾不存在。
+15:42:58 錯誤 : 六小時前的文件已刪除，刪除成功
+15:42:59 錯誤 : listen
+15:43:00 錯誤 : 指定的文件夾不存在。
+15:43:00 錯誤 : 指定的文件夾不存在。
+15:43:00 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:01 錯誤 : listen
+15:43:02 錯誤 : 指定的文件夾不存在。
+15:43:02 錯誤 : 指定的文件夾不存在。
+15:43:03 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:03 錯誤 : listen
+15:43:05 錯誤 : 指定的文件夾不存在。
+15:43:05 錯誤 : 指定的文件夾不存在。
+15:43:05 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:05 錯誤 : listen
+15:43:07 錯誤 : 指定的文件夾不存在。
+15:43:07 錯誤 : 指定的文件夾不存在。
+15:43:07 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:07 錯誤 : listen
+15:43:09 錯誤 : 指定的文件夾不存在。
+15:43:09 錯誤 : 指定的文件夾不存在。
+15:43:09 錯誤 : listen
+15:43:09 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:11 錯誤 : listen
+15:43:11 錯誤 : 指定的文件夾不存在。
+15:43:11 錯誤 : 指定的文件夾不存在。
+15:43:11 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:13 錯誤 : listen
+15:43:13 錯誤 : 指定的文件夾不存在。
+15:43:13 錯誤 : 指定的文件夾不存在。
+15:43:14 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:15 錯誤 : listen
+15:43:16 錯誤 : 指定的文件夾不存在。
+15:43:16 錯誤 : 指定的文件夾不存在。
+15:43:16 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:17 錯誤 : listen
+15:43:18 錯誤 : 指定的文件夾不存在。
+15:43:18 錯誤 : 指定的文件夾不存在。
+15:43:18 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:19 錯誤 : listen
+15:43:20 錯誤 : 指定的文件夾不存在。
+15:43:20 錯誤 : 指定的文件夾不存在。
+15:43:20 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:21 錯誤 : listen
+15:43:30 錯誤 : listen
+15:43:30 錯誤 : 指定的文件夾不存在。
+15:43:30 錯誤 : 指定的文件夾不存在。
+15:43:31 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:32 錯誤 : listen
+15:43:33 錯誤 : 指定的文件夾不存在。
+15:43:33 錯誤 : 指定的文件夾不存在。
+15:43:33 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:34 錯誤 : listen
+15:43:35 錯誤 : 指定的文件夾不存在。
+15:43:35 錯誤 : 指定的文件夾不存在。
+15:43:35 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:36 錯誤 : listen
+15:43:37 錯誤 : 指定的文件夾不存在。
+15:43:37 錯誤 : 指定的文件夾不存在。
+15:43:37 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:38 錯誤 : listen
+15:43:39 錯誤 : 指定的文件夾不存在。
+15:43:39 錯誤 : 指定的文件夾不存在。
+15:43:39 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:40 錯誤 : listen
+15:43:41 錯誤 : 指定的文件夾不存在。
+15:43:41 錯誤 : 指定的文件夾不存在。
+15:43:42 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:42 錯誤 : listen
+15:43:44 錯誤 : 指定的文件夾不存在。
+15:43:44 錯誤 : 指定的文件夾不存在。
+15:43:44 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:44 錯誤 : listen
+15:43:46 錯誤 : 指定的文件夾不存在。
+15:43:46 錯誤 : 指定的文件夾不存在。
+15:43:46 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:46 錯誤 : listen
+15:43:48 錯誤 : 指定的文件夾不存在。
+15:43:48 錯誤 : 指定的文件夾不存在。
+15:43:48 錯誤 : 六小時前的文件已刪除，刪除成功
+15:43:48 錯誤 : listen

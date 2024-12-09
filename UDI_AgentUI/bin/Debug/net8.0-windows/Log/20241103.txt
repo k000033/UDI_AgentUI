@@ -1,0 +1,10 @@
+21:45:27 錯誤 : Cannot find table 0.
+21:45:27 錯誤 : Cannot find table 0.
+21:45:29 錯誤 : Cannot find table 0.
+21:45:31 錯誤 : Cannot find table 0.
+21:45:33 錯誤 : Cannot find table 0.
+21:45:35 錯誤 : Cannot find table 0.
+21:45:37 錯誤 : Cannot find table 0.
+21:45:39 錯誤 : Cannot find table 0.
+21:46:05 錯誤 : Cannot find table 0.
+21:46:07 錯誤 : Cannot find table 0.
