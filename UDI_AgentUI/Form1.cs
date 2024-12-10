@@ -168,7 +168,7 @@ namespace UDI_AgentUI
                     // 當應用程序退出時，會觸發 ConsoleAppExited 事件。
                     process.Exited += (s, args) => ConsoleAppExited(s, new ConsoleAppExitedEventArgs(brand, taskId, guid, id));
                     //process.WaitForExit();
-                    //process.Start();
+                    process.Start();
                     #endregion
 
                     Control elementError = GetElement(brand, id, "EXE");
