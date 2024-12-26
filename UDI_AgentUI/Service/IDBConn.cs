@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace UDI_AgentUI.Service
 {
-    internal interface IDBConn
+    public interface IDBConn
     {
         public DataSet SqlQuery(string strDB, string strSql, Hashtable prm);
         public bool SqlUpDate(string strDB, string strSql, Hashtable prm);

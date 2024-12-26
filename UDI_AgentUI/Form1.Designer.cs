@@ -97,7 +97,7 @@
             // tmrAgent
             // 
             tmrAgent.Enabled = true;
-            tmrAgent.Interval = 1000;
+            tmrAgent.Interval = 1500;
             tmrAgent.Tick += tmrAgent_Tick;
             // 
             // listen

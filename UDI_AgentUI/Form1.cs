@@ -4,6 +4,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Identity.Client;
 using System.CodeDom;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.Common;
 using System.Diagnostics;
@@ -186,8 +187,8 @@ namespace UDI_AgentUI
          */
         private void ConsoleAppExited(object sender, ConsoleAppExitedEventArgs e)
         {
-            Control elementError = GetElement(e.Brand, e.Id, "EXE");
-            elementError.Invoke(new Action(() => { elementError.Visible = false; }));
+            Control elementEXE = GetElement(e.Brand, e.Id, "EXE");
+            elementEXE.Invoke(new Action(() => { elementEXE.Visible = false; }));
 
             //Control elementDevice = GetElement(e.Brand, e.Id, "Device");
             //PictureBox pictureBox = elementDevice as PictureBox;
@@ -233,8 +234,10 @@ namespace UDI_AgentUI
         {
             try
             {
+                string signalrUrl = ConfigurationManager.AppSettings["signalR"].ToString();
                 // 初始化 SignalRClient 实例，并设置服务器 URL
-                _signalRClient = new SignalRClient("http://172.20.20.23/signalR/udi_device_contrl/SignalServer");
+                //_signalRClient = new SignalRClient("http://172.20.20.23/signalR/udi_device_contrl/SignalServer");
+                _signalRClient = new SignalRClient(signalrUrl);
             }
             catch (Exception ex)
             {
@@ -471,7 +474,7 @@ namespace UDI_AgentUI
                         await Task.Delay(100);
                     }
 
-                    _deviceHandel.Agent_WriteLog("六小時前的文件已刪除，刪除成功");
+                    //_deviceHandel.Agent_WriteLog("六小時前的文件已刪除，刪除成功");
                 }
                 catch (Exception ex)
                 {
@@ -480,7 +483,7 @@ namespace UDI_AgentUI
             }
             else
             {
-                _deviceHandel.Agent_WriteLog("指定的文件夾不存在。"+ folderPath);
+                //_deviceHandel.Agent_WriteLog("指定的文件夾不存在。"+ folderPath);
             }
         }
 
@@ -513,7 +516,7 @@ namespace UDI_AgentUI
                             foreach (var directory in batch)
                             {
                                 DirectoryInfo directoryInfo = new DirectoryInfo(directory);
-                                if (directoryInfo.LastWriteTime <= DateTime.Now.AddDays(-1))
+                                if (directoryInfo.LastWriteTime <= DateTime.Now.AddDays(-3))
                                 {
                                     Directory.Delete(directory, true);
                                 }
@@ -524,7 +527,7 @@ namespace UDI_AgentUI
                         await Task.Delay(100);
                     }
 
-                    _deviceHandel.Agent_WriteLog("六小時前的文件已刪除，刪除成功");
+                    //_deviceHandel.Agent_WriteLog("3天前的文件已刪除，刪除成功");
                 }
                 catch (Exception ex)
                 {
@@ -534,7 +537,7 @@ namespace UDI_AgentUI
             else
             {
 
-                _deviceHandel.Agent_WriteLog("指定的文件夾不存在。"+ folderPath);
+                //_deviceHandel.Agent_WriteLog("指定的文件夾不存在。"+ folderPath);
             }
         }
 

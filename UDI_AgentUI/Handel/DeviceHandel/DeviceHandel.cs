@@ -9,7 +9,7 @@ using UDI_AgentUI.Service;
 
 namespace UDI_AgentUI.Handel.DeviceHandel
 {
-    internal class DeviceHandel:IDeviceHandel
+    public class DeviceHandel:IDeviceHandel
     {
         private readonly IDBConn _dbConn;
 

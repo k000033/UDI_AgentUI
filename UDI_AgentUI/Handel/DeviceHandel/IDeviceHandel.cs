@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace UDI_AgentUI.Handel.DeviceHandel
 {
-    internal interface IDeviceHandel
+    public interface IDeviceHandel
     {
         public Task<DataSet> GetNewTaskID();
         public Task devListen();

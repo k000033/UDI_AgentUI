@@ -97,3 +97,4 @@ D:\Users\Jones_Zhong\Desktop\Asp專案\UDI_AgentUI\UDI_AgentUI\bin\Release\net8.
 D:\Users\Jones_Zhong\Desktop\Asp專案\UDI_AgentUI\UDI_AgentUI\bin\Release\net8.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 D:\Users\Jones_Zhong\Desktop\Asp專案\UDI_AgentUI\UDI_AgentUI\bin\Release\net8.0-windows\Microsoft.Extensions.Features.dll
 D:\Users\Jones_Zhong\Desktop\Asp專案\UDI_AgentUI\UDI_AgentUI\bin\Release\net8.0-windows\System.IO.Pipelines.dll
+D:\Users\Jones_Zhong\Desktop\Asp專案\UDI_AgentUI\UDI_AgentUI\obj\Release\net8.0-windows\UDI_AgentUI.sourcelink.json

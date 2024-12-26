@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UDI_AgentUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f471b7c0a9bdaea1f091b9a4be3d9c8884e9a2c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("UDI_AgentUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UDI_AgentUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using UDI_AgentUI.Handel.DeviceHandel;
 
 namespace UDI_AgentUI.Service
 {
-    internal class DBConn : IDBConn
+    public class DBConn : IDBConn
     {
 
         public DataSet SqlQuery(string strDB, string strSql, Hashtable prm)

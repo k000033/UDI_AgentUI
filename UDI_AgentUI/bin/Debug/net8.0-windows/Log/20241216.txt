@@ -1,0 +1,6 @@
+20:51:36 錯誤 : 連線中斷並準備進行自動重連，Reconnecting: 
+20:51:48 錯誤 : 連線意外中斷且無法恢復時觸發，Connection closed: Reconnect retries have been exhausted after 3 failed attempts and 00:00:12.0687143 elapsed. Disconnecting.
+20:56:16 錯誤 : 連線中斷並準備進行自動重連，Reconnecting: 
+20:56:58 錯誤 : 成功重新連線到伺服器，Reconnected with ID: 3Mr7vkGxk6UgTBV45zZRfw
+20:57:29 錯誤 : 連線中斷並準備進行自動重連，Reconnecting: 
+20:58:12 錯誤 : 連線意外中斷且無法恢復時觸發，Connection closed: Reconnect retries have been exhausted after 4 failed attempts and 00:00:42.0848132 elapsed. Disconnecting.
